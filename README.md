@@ -34,7 +34,7 @@
  </p>
     
 <!-- 사용한 언어 순위 카드 --> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunimong&layout=compact&theme=github_dark_dimmed)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunimong&theme=dark&show_icons=true)
 
 <!-- GitHub Stats Card --> 
 [![SeungAh-sunimong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
