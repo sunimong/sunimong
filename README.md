@@ -1,6 +1,6 @@
 <!-- header --> 
 <p align='center'> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffefac&fontColor=0F1035&height=200&section=header&text=Hello:)+I'm+Sunimong's+Github!👋&fontSize=40"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b8cc89&fontColor=0F1035&height=200&section=header&text=Hello:)+I'm+Sunimong's+Github!👋&fontSize=40"/> 
 </p> 
 
 <!-- badge --> 
@@ -8,7 +8,10 @@
  <!-- gmail --> 
  <img src="https://img.shields.io/badge/sunimong.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
 <!-- Instagram --> 
- <a href="https://www.instagram.com/happyy_bppl.yoo?igsh=Ym9wMHVhdHFkbmlw&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> </p>
+ <a href="https://www.instagram.com/happyy_bppl.yoo?igsh=Ym9wMHVhdHFkbmlw&utm_source=qr">
+ <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+ </a> 
+</p>
 
 <!-- 기술 스택 --> 
 <p align='center'> ## 💻 Tech Stacks <br>
