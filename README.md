@@ -12,7 +12,7 @@
 
 <!-- 기술 스택 --> 
 ## 💻 Tech Stacks 
-<p> 
+<p align='center'> 
   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/> 
@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> 
  </p>
     
-<!-- 사용한 언어 순위 카드 --> 
+<!-- 사용한 언어 순위 카드
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunimong&theme=dark&show_icons=true)
 
-<!-- GitHub Stats Card --> 
-[![SeungAh-sunimong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats)
+GitHub Stats Card
+[![SeungAh-sunimong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/SeungAh-Yoo99/github-readme-stats) --> 
