@@ -1,9 +1,3 @@
-<!-- header --> 
-<p align='center'> 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=#ACBCFF&fontColor=0F1035&height=200&section=header&text=Sunimong&fontSize=40"/>
-</p>
-<h3 align="center"> Hi there 👋</h3>
-
 <!--
 **sunimong/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- header --> 
+<p align='center'> 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=170&section=header&text=Sunimong&fontSize=40"/>
+</p>
+<h3 align="center"> Hi there 👋</h3><br>
 
 <!-- 기술 스택 --> 
 <h3 align="center"> 💻 Tech Stack 💻</h3>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0053CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> 
- </p>
+ </p><br>
 
 <h3 align="center"> 📫 How to reach me: ...</h3>
 
